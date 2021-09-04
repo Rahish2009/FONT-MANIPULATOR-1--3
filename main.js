@@ -37,5 +37,5 @@ function draw(){
     fill('#f686F2');
     textSize(difference);
     stroke('#f686F2');
-    text('name', 50, 400);
+    text('Rahish', 50, 400);
 }
